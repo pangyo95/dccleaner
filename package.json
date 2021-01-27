@@ -1,0 +1,17 @@
+{
+  "name": "dccleaner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "pkg": {
+    "targets": [
+      "node12-win-x64"
+    ]
+  }
+}
