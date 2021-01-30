@@ -12,6 +12,7 @@
 # git, node 깔려있다고 가정함
 
 git clone https://github.com/pangyosex/dccleaner.git
+cd dccleaner
 npm install
 node app.js
 ```
