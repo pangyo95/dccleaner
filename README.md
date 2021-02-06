@@ -24,4 +24,4 @@ node app.js
 
 ### 윈도우
 
-#### https://github.com/pangyosex/dccleaner/releases
+#### https://github.com/pangyo95/dccleaner/releases
