@@ -29,6 +29,7 @@ async function start(id, pw) {
             await browser.close();
         }
     });
+    await page.setDefaultNavigationTimeout(0)
     await page.goto('https://www.dcinside.com/');
     await page.type("#user_id", id)
     await page.type("#pw", pw)
